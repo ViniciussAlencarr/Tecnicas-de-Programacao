@@ -1,5 +1,7 @@
 package algoritmos;
-
+/**
+ ************************************** REQUER VETOR ORDENADO *******************************
+ */
 public class buscaBinariaRecursiva {
 
     public static int buscaBinaria_Recursiva(int vetor[], int inicio, int fim, int valor) {
