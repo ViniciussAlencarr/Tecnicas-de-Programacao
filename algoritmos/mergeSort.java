@@ -1,3 +1,4 @@
+package algoritmos;
 public class mergeSort {
     public static void merge(int vetor[], int inicio, int meio, int fim, int vetorAux[]) {
         int left = inicio;
